@@ -10,3 +10,14 @@ Standard machine learning python libraries and Jupiter notebooks are adopted to 
 
 While we execute the Jupiter notebooks, the results and figures are displayed in the notebook console. Figures that are in the Figures/ folder are part of the accepted manuscript and supplementary information of the project. 
 
+# Features to be implemented in the future
+
+In future, the data set could be expanded to accommodate the modelling of various RSM devices. Currently, we use the trained models to perform inference on other RSM devices such as TiO2 and SiOx devices. However, the amount of data is not enough to develop a complete model. To address this, a wide variety of data set from various RSM devices could improve the existing model. Furthermore, object-oriented programming methodologies could be adopted to make the available base code a reusable code.
+
+# Installing and using the project
+
+The project is hosted in a public repository and can be cloned using the GitHub link. 
+
+1.	Load the source code python file from SourceCode/ folder of either MLP model or RF Model to a Jupiter notebook and execute the functions in a sequential manner.
+
+
